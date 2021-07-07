@@ -1,1 +1,1 @@
-# NLP_basic
+# study_NLP
